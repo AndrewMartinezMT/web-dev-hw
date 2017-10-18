@@ -10,3 +10,7 @@ This project will be fun for me since I love tying my own flies. <p>It will be a
 
 ### Part 2 of 3
 This part of the project included providing images, text boxes, buttons, and other elements that make up a web page. This part of the project took a little longer than expected.
+
+
+### Part 3 of 3
+This portion of the project was interesting. Incorporating videos and audio into my own website was awesome. I am still struggling a little writing out the code properly but I keep learning as I go on. 
