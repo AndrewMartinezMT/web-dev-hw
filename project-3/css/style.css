@@ -41,8 +41,13 @@ main {
   border-style: ridge;
   border-color: #003e19 ;
   border-width: medium;
+  color-text: #ff0000;
+  
 
 }
+
+
+
 
 /*Style of center*/
 center{
