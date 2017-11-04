@@ -43,11 +43,12 @@ main {
 }
 
 /*Style of aside*/
-aside{
-  background-color: white;
+center{
+  background-color: #003e19;
   border-radius: 15px;
   border-style: ridge;
   border-width: medium;
+  
 
 }
 
