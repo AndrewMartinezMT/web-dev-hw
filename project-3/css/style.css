@@ -26,3 +26,14 @@ h2 {
   letter-spacing: normal;
 
 }
+/*Style of main*/
+main {
+  font-family: 'Times New Roman', serif;
+  line-height: normal;
+  font-weight: normal;
+  margin-bottom: 1em;
+  text-align: right;
+  color:#000000 ;
+  letter-spacing: normal;
+
+}
