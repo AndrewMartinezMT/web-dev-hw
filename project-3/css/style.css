@@ -1,0 +1,28 @@
+/*Style of the body*/
+body {
+  background-color:#008e49 ;
+  font-family: 'Times New Roman', serif;
+
+}
+/*Style of h1*/
+h1 {
+  font-family: 'Times New Roman', serif;
+  line-height: normal;
+  font-weight: normal;
+  margin-bottom: 1em;
+  text-align: center;
+  color:#000000 ;
+  letter-spacing: normal;
+
+}
+/*Style of h2*/
+h2 {
+  font-family: 'Times New Roman', serif;
+  line-height: normal;
+  font-weight: normal;
+  margin-bottom: 1em;
+  text-align: center;
+  color:#000000 ;
+  letter-spacing: normal;
+
+}
