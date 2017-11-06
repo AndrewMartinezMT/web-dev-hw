@@ -1,14 +1,14 @@
 /*Style of the body*/
 body {
   background-image: image(./images/wildfire.jpg);
-  font-family: 'Times New Roman', serif;
+  font-family: 'Lato', sans-serif;
 
 
 
 }
 /*Style of h1*/
 h1 {
-  font-family: 'Times New Roman', serif;
+  font-family: 'Merriweather', sans-serif;
   line-height: normal;
   font-weight: normal;
   margin-bottom: 1em;
@@ -19,7 +19,7 @@ h1 {
 }
 /*Style of h2*/
 h2 {
-  font-family: 'Times New Roman', serif;
+  font-family: 'Merriweather', sans-serif;
   line-height: normal;
   font-weight: normal;
   margin-bottom: 1em;
@@ -30,7 +30,7 @@ h2 {
 }
 /*Style of main*/
 main {
-  font-family: 'Times New Roman', serif;
+  font-family: 'Merriweather', sans-serif;
   line-height: normal;
   font-weight: normal;
   margin-bottom: 1em;
@@ -42,7 +42,7 @@ main {
   border-color: #003e19 ;
   border-width: medium;
   color-text: #ff0000;
-  
+
 
 }
 
@@ -67,4 +67,18 @@ footer {
   border-color: #003e19 ;
   border-width: medium;
 
+}
+
+
+.element-1 {
+  font-size: 1.5em;
+  font-family: sans-serif;
+}
+.element-1 a {
+  color: #b12500;
+  text-decoration: underline;
+}
+.element-1 a:hover {
+  color: #4e3bfc;
+  font-style: italic;
 }
