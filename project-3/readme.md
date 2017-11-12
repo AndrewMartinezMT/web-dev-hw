@@ -12,4 +12,7 @@ I chose this book because I am fond of everything about forestry and wildfires. 
 I chose those quotes from the book because they were the most powerful quotes in the book in my opinion.
 
 ## Format of Webpage
-I chose the format of the webpage because I like the way it flows. I chose the solid boarders because I think they look more asthetically pleasing. 
+I chose the format of the webpage because I like the way it flows. I chose the solid boarders because I think they look more asthetically pleasing.
+
+## Homework 6
+I tried putting in all of the elements of homework assignement 6 in and I became really confused. I was happy with the way my site looked before I put these new elements in and now I cannot bring it back to the way it looked before. I struggled with this homework assignment the most out of all of them. I could not figure out how to implement the styles correctly. 
