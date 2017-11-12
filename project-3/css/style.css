@@ -82,3 +82,17 @@ footer {
   color: #4e3bfc;
   font-style: italic;
 }
+
+
+.menu-item {
+  margin: auto;
+  padding: 0.5em;
+  min-width: 100px;
+  color: #007747;
+  background-color: #003e19;
+}
+
+.menu-item:hover {
+  background-color: #003e19;
+  color: #007747;
+}
