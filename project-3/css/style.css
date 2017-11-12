@@ -69,20 +69,22 @@ footer {
 
 }
 
-
+/*elements*/
 .element-1 {
   font-size: 1.5em;
   font-family: sans-serif;
 }
+/*elements1*/
 .element-1 a {
   color: #b12500;
   text-decoration: underline;
 }
+/*elements2*/
 .element-1 a:hover {
   color: #4e3bfc;
   font-style: italic;
 }
-
+/*menu Item*/
 .menu-item {
   margin: auto;
   padding: 0.5em;
@@ -95,7 +97,7 @@ footer {
   background-color: #5e3d32;
   color: #b12500;
 }
-
+/*parent container*/
 .parent-container {
   width: 70%;
   background-color: #003319;
