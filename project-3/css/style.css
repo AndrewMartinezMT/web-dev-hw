@@ -101,4 +101,8 @@ footer {
   background-color: #003319;
 }
 
-.parent-container 
+.parent-container h2 {
+  font-size: large;
+  font-weight: 600;
+  font-style: normal;
+}
