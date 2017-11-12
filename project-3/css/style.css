@@ -24,7 +24,7 @@ h2 {
   font-weight: normal;
   margin-bottom: 1em;
   text-align: center;
-  color:#000000 ;
+  color:#008e49 ;
   letter-spacing: normal;
 
 }
@@ -89,12 +89,12 @@ footer {
   margin: auto;
   padding: 0.5em;
   min-width: 100px;
-  color: #5e3d32;
-  background-color: #5e3d32;
+  color: #008e49;
+  background-color: #008e49;
 }
 
 .menu-item:hover {
-  background-color: #5e3d32;
+  background-color: #008e49;
   color: #b12500;
 }
 /*parent container*/
