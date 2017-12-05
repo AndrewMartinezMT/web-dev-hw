@@ -14,7 +14,7 @@
 
 /*Title*/
 .title {
-  background-color: #006a47;
+  background-color: (#006a47, 0.70);
   width: 100%;
   text-align: center;
   order: 1;
@@ -23,7 +23,7 @@
 
 /*What is RWD?*/
 .whatis {
-  background-color: #024b79;
+  background-color: (#024b79, 0.70);
   width: 100%;
   height: auto;
   text-align: center;
@@ -33,7 +33,7 @@
 }
 /*Why Designers should utilize RWD approach*/
 .whyuse {
-  background-color: #d79133;
+  background-color: (#d79133, 0.70);
   width: 100%;
   height: auto;
   text-align: center;
@@ -44,7 +44,7 @@
 
 /*Process*/
 .process {
-  background-color: #c7b300;
+  background-color: (#c7b300, 0.70);
   width: 100%;
   height: auto;
   text-align: center;
