@@ -69,7 +69,12 @@ body {
 
 }
 
+@media (min-width: 550px) {
+  .whatis, .whyuse {
+    width: 50%;
+  }
 
+}
 @media (min-width: 700px) {
   .main-container {
     width: 700px;
@@ -77,17 +82,15 @@ body {
     margin-right: auto;
 
   }
+}
 
-  @media (min-width: 550px) {
+  @media (min-width: 1000px) {
     .whatis, .whyuse {
       width: 50%;
     }
+    .process {
+      width: 75%;
+    }
+
   }
-
-  
-
-
-
-
-
-}
+    
