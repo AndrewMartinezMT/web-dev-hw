@@ -85,12 +85,11 @@ body {
 }
 
   @media (min-width: 1000px) {
-    .whatis, .whyuse {
+    .whatis {
       width: 50%;
     }
-    .process {
-      width: 75%;
+    .process, .whyuse {
+      width: 33%;
     }
 
   }
-    
