@@ -27,7 +27,7 @@
   width: 100%;
   height: auto;
   text-align: center;
-  align-content: center;
+  align-content: left;
   order: 2;
 
 }
@@ -37,7 +37,7 @@
   width: 100%;
   height: auto;
   text-align: center;
-  align-content: center;
+  align-content: right;
   order: 3;
 
 }
