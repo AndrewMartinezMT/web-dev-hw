@@ -16,6 +16,7 @@
 .title {
   background-color: #006a47;
   width: 100%;
+  height: 20%;
   text-align: center;
   order: 1;
 
@@ -34,7 +35,7 @@
 /*Why Designers should utilize RWD approach*/
 .whyuse {
   background-color: #d79133;
-  width: 100%;
+  width: 50%;
   height: auto;
   text-align: center;
   align-content: center;
@@ -45,7 +46,7 @@
 /*Process*/
 .process {
   background-color: #c7b300;
-  width: 100%;
+  width: 50%;
   height: auto;
   text-align: center;
   align-content: center;
@@ -59,6 +60,6 @@
   .whatis {order: 2; }
   .whyuse {order: 3; }
   .process {order: 4;}
-  
+
 
 }
