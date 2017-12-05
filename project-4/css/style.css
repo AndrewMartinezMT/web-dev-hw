@@ -1,0 +1,64 @@
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.flex-item {
+  flex: auto;
+  height: 100px;
+  min-width: 250px;
+  text-align: center;
+
+}
+
+/*Title*/
+.title {
+  background-color: #006a47;
+  width: 100%;
+  text-align: center;
+  order: 1;
+
+}
+
+/*What is RWD?*/
+.whatis {
+  background-color: #024b79;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  align-content: center;
+  order: 2;
+
+}
+/*Why Designers should utilize RWD approach*/
+.whyuse {
+  background-color: #d79133;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  align-content: center;
+  order: 3;
+
+}
+
+/*Process*/
+.process {
+  background-color: #c7b300;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  align-content: center;
+  order: 4;
+
+}
+
+
+@media screen and (min-width:700px) {
+  .title {order: 1; }
+  .whatis {order: 2; }
+  .whyuse {order: 3; }
+  .process {order: 4;}
+  
+
+}
