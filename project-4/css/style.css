@@ -68,3 +68,26 @@ body {
   background: url(../images/paintswirl.jpg);
 
 }
+
+
+@media (min-width: 700px) {
+  .main-container {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  @media (min-width: 550px) {
+    .whatis, .whyuse {
+      width: 50%;
+    }
+  }
+
+  
+
+
+
+
+
+}
