@@ -67,6 +67,7 @@
 
 body {
   background: url(../images/paintswirl.jpg);
+  background-repeat: no-repeat;
 
 }
 
